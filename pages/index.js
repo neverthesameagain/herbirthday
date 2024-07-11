@@ -27,14 +27,14 @@ export default function Home()
     
       <div className="flex flex-row justify-center items-center w-full h-full bg-red-200 p-10 drop-shadow-xl">
         <div className="w-2/3 h-64 bg-gradient-to-r from-pink-300 to-pink-200 drop-shadow-xl rounded-full text-center transition-all duration-300">
-          <h1 className="p-20 tracking-wide text-2l font-bold text-white uppercase drop-shadow-lg">nah like Krushi Finally reached the page, hmm, great work !</h1>
+          <h1 className="p-20 tracking-wide text-6l font-bold text-white uppercase drop-shadow-lg">My Dear Kruu! Welcome! Did you find it tough reaching here? I guess No </h1>
         </div>
       </div>
 
       <div className="flex flex-row items-center justify-evenly w-full h-96 bg-pink-50">
-        <CommentedImage src='/marina1.jpg' text="Aww so pretty, how about a Rose?"/>
-        <CommentedImage src='/marina2.jpg' text="A chocolate for my heart?"/>
-        <CommentedImage src='/marina3.jpg' text="Should we kiss?"/>
+        <CommentedImage src='/Krushi1.jpg' text="Aww so pretty, how about a Rose?"/>
+        <CommentedImage src='/Krushi2.jpg' text="A chocolate for my heart?"/>
+        <CommentedImage src='/Krushi3.jpg' text="We definitely should hug!"/>
       </div>
 
       <div className="text-center w-full h-64 bg-pink-200 drop-shadow-xl">
