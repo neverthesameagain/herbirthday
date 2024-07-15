@@ -56,7 +56,7 @@ export default function Home()
 
       <CornyQuestion 
         question="What does Aryan have deep in his heart?
-        nonactive="https://e7.pngegg.com/pngimages/792/16/png-clipart-panda-panda-cartoon-panda.png"
+        nonactive="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuclear_symbol.svg/1024px-Nuclear_symbol.svg.png"
         active="        active="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/76629/nuclear-explosion-clipart-xl.png"
 "
         primary
