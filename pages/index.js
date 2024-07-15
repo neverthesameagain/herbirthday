@@ -160,23 +160,48 @@ export default function Home()
             <h2 className='w-2/3 text-black opacity-75 font-bold italic text-2xl'>
               New Delhi
             </h2>
-            <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
-              A Spiritual Visit
+            <h3 className='w-2/3 text-black opacity-90 text-2xl'>
+              • 9:30 A.M. •
             </h3>
             <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
-              The buds of tounge
+              • A Spiritual Visit •
+            </h3>
+            <h3 className='w-2/3 text-black opacity-90  text-2xl'>
+              1 P.M.
+            </h3>
+            <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
+              • The buds of taste •
+            </h3>
+
+            <h3 className='w-2/3 text-black opacity-90 text-2xl'>
+              1:30 P.M.
             </h3>
             <h2 className='w-2/3 text-black opacity-75 font-bold italic text-2xl'>
-              The Mirror Maze
+              • The Mirror Maze •
             </h2>
             <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
-              A celestial oddysey
+              3 P.M.
+            </h3>
+            <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
+              • A celestial oddysey •
+            </h3>
+            <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
+              4 P.M. [ Depending upon how tired we are ]
             </h3>
             <h2 className='w-2/3 text-black opacity-75 font-bold italic text-2xl'>
-              Aesthetic Overturn
+              • Aesthetic Overturn / Sensory Peace •  
             </h2>
+            <h3 className='w-2/3 text-black opacity-90  text-2xl'>
+              6:30 P.M.
+            </h3>
             <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
-              • Lavish Dinner •
+              • Dinnerati •
+            </h3>
+            <h3 className='w-2/3 text-black opacity-90  text-2xl'>
+              7:30 P.M.
+            </h3>
+            <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
+              • The Final One •
             </h3>
             <img className="h-24" src="https://cdn.pixabay.com/photo/2018/02/19/20/28/abstract-3166168__480.png" alt=""/>
           </div>
