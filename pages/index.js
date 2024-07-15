@@ -146,7 +146,7 @@ export default function Home()
           <div className="flex flex-col items-center gap-5 text-center w-3/4 min-h-screen bg-white p-5 rounded-3xl shadow-xl">
             <img className="h-24" src="https://cdn.pixabay.com/photo/2018/02/19/20/28/abstract-3166168__480.png" alt=""/>
             <h1 className='w-2/3 text-black font-bold text-4xl underline'>
-              The initial plan was something like below but now everything seems to have changed.
+              The initial plan was something like below but now things seem to have changed, look through , stay surprised!
             </h1>
             <h2 className='w-2/3 text-black opacity-75 font-bold italic text-2xl'>
               Krushi Thakkar and Aryan Mathur
