@@ -25,8 +25,8 @@ export default function Home()
   return (
     <>
     
-      <div className="flex flex-row justify-center items-center w-full h-full bg-black p-10 drop-shadow-xl">
-        <div className="w-2/3 h-64 bg-gradient-to-r from-pink-300 to-pink-200 drop-shadow-xl rounded-full text-center transition-all duration-300">
+      <div className="flex flex-row justify-center items-center w-full h-full bg-pink-200 p-10 drop-shadow-xl">
+        <div className="w-2/3 h-64 bg-gradient-to-r from-pink-300 to-pink-300 drop-shadow-xl rounded-full text-center transition-all duration-300">
           <h1 className="p-20 tracking-wide text-6l font-bold text-white uppercase drop-shadow-lg">Yayy!! It is Krrruuuuuuuu Day!!! My pandii is officially 20 year old now! and her dear panda has planned somethings for her, but wait, if he tells her already, what would be the fun? Here are a few Glimpses..  </h1>
         </div>
       </div>
@@ -38,26 +38,26 @@ export default function Home()
       </div>
 
       <div className="text-center w-full h-64 bg-pink-200 drop-shadow-xl">
-        <h1 className="p-20 tracking-wide text-6xl font-bold text-pink-400 uppercase drop-shadow-xl">So I heard...</h1>
+        <h1 className="p-20 tracking-wide text-6xl font-bold text-pink-400 uppercase drop-shadow-xl">So my dear Krruuu,</h1>
       </div>
 
       <div className="flex flex-col items-center text-center w-full h-96 bg-pink-50 p-10">
         <div className="flex flex-row items-center text-center w-full h-5/6 bg-pink-50">
-          <h1 className='w-1/3 text-pink-300 font-bold text-6xl'>It is your birthday and</h1>
+          <h1 className='w-1/3 text-pink-300 font-bold text-6xl'>Are you excited for today?</h1>
           <img src='https://sweezy-cursors.com/wp-content/uploads/cursor/milk-amp-mocha-bear-love/milk-mocha-bear-love-custom-cursor.png' width={600}/>
-          <h1 className='w-1/3 text-pink-300 font-bold text-6xl'>Aryan planned some surprises</h1>
+          <h1 className='w-1/3 text-pink-300 font-bold text-6xl'>So am I!</h1>
         </div>
-        <h1 className="w-full h-1/4 text-pink-300 font-bold text-6xl uppercase">And you wanna know them right?</h1>
+        <h1 className="w-full h-1/4 text-pink-300  text-6xl uppercase">And you wanna know the plans right? </h1>
       </div>
 
       <div className="text-center w-full h-64 bg-pink-200 drop-shadow-xl">
-        <h1 className="p-20 tracking-wide text-6xl font-bold text-pink-400 uppercase drop-shadow-xl">So... verify your identity first</h1>
+        <h1 className="p-20 tracking-wide text-6xl font-bold text-pink-400 uppercase drop-shadow-xl">Before that, Answer some simple questions first,</h1>
       </div>
 
       <CornyQuestion 
-        question="Who are you?"
-        nonactive="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuclear_symbol.svg/1024px-Nuclear_symbol.svg.png"
-        active="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/76629/nuclear-explosion-clipart-xl.png"
+        question="What does Aryan have deep in his heart?
+        nonactive="https://e7.pngegg.com/pngimages/792/16/png-clipart-panda-panda-cartoon-panda.png"
+        active="https://instagram.fdel27-3.fna.fbcdn.net/v/t51.29350-15/431786548_1379958532664576_8259499804881603529_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTEuc2RyLmYyOTM1MCJ9&_nc_ht=instagram.fdel27-3.fna.fbcdn.net&_nc_cat=108&_nc_ohc=3Va2mJs48Y4Q7kNvgGqD2U3&edm=AEhyXUkBAAAA&ccb=7-5&ig_cache_key=MzMxNzk2MDc4NDE1NTg4NzE3Mw%3D%3D.2-ccb7-5&oh=00_AYCZy9aTQbGHijBi1NHiXEoUjGNCAXR9BfBwClaBYTnX0Q&oe=669A7E64&_nc_sid=8f1549"
         primary
         left
       />
