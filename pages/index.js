@@ -81,8 +81,8 @@ export default function Home()
 
       <CornyQuestion 
         question="Would you please let Aryan surprise you today?"
-        nonactive="/questionmark.jpg"
-        active="/surprise.jpg"
+        nonactive="https://www.onlygfx.com/wp-content/uploads/2018/09/4-comic-question-mark-2.png"
+        active="https://cdn-icons-png.freepik.com/512/1791/1791307.png?ga=GA1.1.1680543500.1721035900"
         secondary
         right
       />
