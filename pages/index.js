@@ -69,12 +69,11 @@ export default function Home()
       <div className="flex flex-row justify-around items-center text-center w-full h-96 bg-pink-50 p-5">
         <h1 className='w-2/3 text-pink-300 font-bold text-6xl'>Do you know that panda Loves you?</h1>
       </div>
+      <div className="flex flex-row justify-around items-center text-center w-full h-96 bg-pink-50 p-5">
+        <h1 className='w-2/3 text-pink-300 font-bold text-6xl'>When did we first meet?</h1>
+      </div>
 
-      <CornyQuestion 
-        question="When did we first meet?"
-        secondary
-        right
-      />
+
 
 
       <CornyQuestion 
