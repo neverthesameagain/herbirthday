@@ -141,7 +141,7 @@ export default function Home()
 
       {
         confirmed ? 
-        <div className="flex flex-col justify-around items-center text-center w-full h-[78em] bg-pink-200 p-5">
+        <div className="flex flex-col justify-around items-center text-center w-full h-[98em] bg-pink-200 p-5">
           <h1 className='w-2/3 text-pink-400 font-bold text-6xl'> ~ Krruu Day ~ </h1>
           <div className="flex flex-col items-center gap-5 text-center w-3/4 min-h-screen bg-white p-5 rounded-3xl shadow-xl">
             <img className="h-24" src="https://cdn.pixabay.com/photo/2018/02/19/20/28/abstract-3166168__480.png" alt=""/>
