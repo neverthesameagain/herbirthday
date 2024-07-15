@@ -57,7 +57,7 @@ export default function Home()
       <CornyQuestion 
         question="What does Aryan have deep in his heart?"
         nonactive="https://www.freepnglogos.com/uploads/panda-png/hungry-panda-eats-spam-google-panda-16.png"
-        active="https://instagram.fdel27-4.fna.fbcdn.net/v/t51.2885-19/439101566_1510815249647904_6880295854075937772_n.jpg?_nc_ht=instagram.fdel27-4.fna.fbcdn.net&_nc_cat=100&_nc_ohc=ULiNZMjyYpEQ7kNvgHlHUIr&edm=AEhyXUkBAAAA&ccb=7-5&oh=00_AYCvNRMbBs-UK925VV3OarDToMUWdqjTMTo6iueO09HVUw&oe=669AA549&_nc_sid=8f1549"
+        active='/Krushi1.jpg'
         primary
         left
       />
