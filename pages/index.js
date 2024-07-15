@@ -56,8 +56,8 @@ export default function Home()
 
       <CornyQuestion 
         question="What does Aryan have deep in his heart?"
-        nonactive="https://e7.pngegg.com/pngimages/792/16/png-clipart-panda-panda-cartoon-panda.png"
-        active="https://instagram.fdel27-3.fna.fbcdn.net/v/t51.29350-15/431786548_1379958532664576_8259499804881603529_n.webp?stp=dst-jpg_e35_p240x240&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTEuc2RyLmYyOTM1MCJ9&_nc_ht=instagram.fdel27-3.fna.fbcdn.net&_nc_cat=108&_nc_ohc=3Va2mJs48Y4Q7kNvgGqD2U3&edm=AEhyXUkBAAAA&ccb=7-5&ig_cache_key=MzMxNzk2MDc4NDE1NTg4NzE3Mw%3D%3D.2-ccb7-5&oh=00_AYBKCqkJP7KrNosscNkpbOBXrQElOmqGTw508pkCKxWFhw&oe=669AB6A4&_nc_sid=8f1549"
+        nonactive="https://www.freepnglogos.com/uploads/panda-png/hungry-panda-eats-spam-google-panda-16.png"
+        active="https://instagram.fdel27-4.fna.fbcdn.net/v/t51.2885-19/439101566_1510815249647904_6880295854075937772_n.jpg?_nc_ht=instagram.fdel27-4.fna.fbcdn.net&_nc_cat=100&_nc_ohc=ULiNZMjyYpEQ7kNvgHlHUIr&edm=AEhyXUkBAAAA&ccb=7-5&oh=00_AYCvNRMbBs-UK925VV3OarDToMUWdqjTMTo6iueO09HVUw&oe=669AA549&_nc_sid=8f1549"
         primary
         left
       />
