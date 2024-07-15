@@ -63,11 +63,11 @@ export default function Home()
       />
 
       <div className="flex flex-row justify-around items-center text-center w-full h-96 bg-pink-200 p-5">
-        <h1 className='w-2/3 text-pink-400 font-bold text-6xl'>Would you</h1>
+        <h1 className='w-2/3 text-pink-400 font-bold text-6xl'> Who are you in the Pandaland? </h1>
       </div>
 
       <div className="flex flex-row justify-around items-center text-center w-full h-96 bg-pink-50 p-5">
-        <h1 className='w-2/3 text-pink-300 font-bold text-6xl'>Uh</h1>
+        <h1 className='w-2/3 text-pink-300 font-bold text-6xl'>Do you know that panda Loves you?</h1>
       </div>
 
       <CornyQuestion 
@@ -78,16 +78,9 @@ export default function Home()
         right
       />
 
-      <CornyQuestion 
-        question="What do you expect from Aryan?"
-        nonactive="https://assets.stickpng.com/images/61d183263a856e0004c6334a.png"
-        active="https://pbs.twimg.com/media/E2ieswGVgAYKWt3.jpg"
-        primary
-        left
-      />
 
       <CornyQuestion 
-        question="Would you be Aryan's Date?"
+        question="Would you please let Aryan surprise you today?"
         nonactive="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0a76b087-d923-4acf-85c5-118e6b81c7a0/d70lfsz-0a567aaf-a3ec-4cca-ac87-3820e4727e8f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBhNzZiMDg3LWQ5MjMtNGFjZi04NWM1LTExOGU2YjgxYzdhMFwvZDcwbGZzei0wYTU2N2FhZi1hM2VjLTRjY2EtYWM4Ny0zODIwZTQ3MjdlOGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PZQsxdrOyzYABwsLATW4K94fX8RQBzUIzLrR-l8BDPU"
         active="https://i.redd.it/v0ep5v1vbl331.png"
         secondary
@@ -125,7 +118,7 @@ export default function Home()
               </AlertDialogHeader>
 
               <AlertDialogBody>
-                NO WAY SHE JUST SAID YES?
+                Yayy! SHE JUST SAID YES?
               </AlertDialogBody>
 
               <AlertDialogFooter>
@@ -159,28 +152,31 @@ export default function Home()
               Thank You For Your Confirmation!
             </h1>
             <h2 className='w-2/3 text-black opacity-75 font-bold italic text-2xl'>
-              Krushi
+              Krushi Thakkar and Aryan Mathur
             </h2>
             <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
-              Aryan
+              16th July 2024
             </h3>
             <h2 className='w-2/3 text-black opacity-75 font-bold italic text-2xl'>
               New Delhi
             </h2>
             <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
-              Grove by the River, Newark
+              A Spiritual Visit
+            </h3>
+            <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
+              The buds of tounge
             </h3>
             <h2 className='w-2/3 text-black opacity-75 font-bold italic text-2xl'>
-              Time
+              The Mirror Maze
             </h2>
             <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
-              9:00 PM - 11:00 PM
+              A celestial oddysey
             </h3>
             <h2 className='w-2/3 text-black opacity-75 font-bold italic text-2xl'>
-              Events
+              Aesthetic Overturn
             </h2>
             <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
-              • Dinner • Photos • Prom • Post-Prom •
+              • Lavish Dinner •
             </h3>
             <img className="h-24" src="https://cdn.pixabay.com/photo/2018/02/19/20/28/abstract-3166168__480.png" alt=""/>
           </div>
