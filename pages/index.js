@@ -25,9 +25,9 @@ export default function Home()
   return (
     <>
     
-      <div className="flex flex-row justify-center items-center w-full h-full bg-red-200 p-10 drop-shadow-xl">
+      <div className="flex flex-row justify-center items-center w-full h-full bg-black p-10 drop-shadow-xl">
         <div className="w-2/3 h-64 bg-gradient-to-r from-pink-300 to-pink-200 drop-shadow-xl rounded-full text-center transition-all duration-300">
-          <h1 className="p-20 tracking-wide text-6l font-bold text-white uppercase drop-shadow-lg">My Dear Kruu! Welcome! Did you find it tough reaching here? I guess No </h1>
+          <h1 className="p-20 tracking-wide text-6l font-bold text-white uppercase drop-shadow-lg">Yayy!! It is Krrruuuuuuuu Day!!! My pandii is officially 20 year old now! and her dear panda has planned somethings for her, but wait, if he tells her already, what would be the fun? Here are a few Glimpses..  </h1>
         </div>
       </div>
 
