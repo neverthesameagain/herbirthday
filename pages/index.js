@@ -145,8 +145,8 @@ export default function Home()
       {
         confirmed ? 
         <div className="flex flex-col justify-around items-center text-center w-full h-[58em] bg-pink-200 p-5">
-          <h1 className='w-2/3 text-pink-400 font-bold text-6xl'>So here is The Plan </h1>
-          <div className="flex flex-col items-center gap-5 text-center w-3/4 h-5/6 bg-white p-5 rounded-3xl shadow-xl">
+          <h1 className='w-2/3 text-pink-400 font-bold text-6xl'> ~ Krruu Day ~ </h1>
+          <div className="flex flex-col items-center gap-5 text-center w-3/4 min-h-screen bg-white p-5 rounded-3xl shadow-xl">
             <img className="h-24" src="https://cdn.pixabay.com/photo/2018/02/19/20/28/abstract-3166168__480.png" alt=""/>
             <h1 className='w-2/3 text-black font-bold text-4xl underline'>
               Thank You For Your Confirmation!
@@ -179,13 +179,13 @@ export default function Home()
             <h2 className='w-2/3 text-black opacity-75 font-bold italic text-2xl'>
               • The Mirror Maze •
             </h2>
-            <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
+            <h3 className='w-2/3 text-black opacity-90  text-2xl'>
               3 P.M.
             </h3>
             <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
               • A celestial oddysey •
             </h3>
-            <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
+            <h3 className='w-2/3 text-black opacity-90  text-2xl'>
               4 P.M. [ Depending upon how tired we are ]
             </h3>
             <h2 className='w-2/3 text-black opacity-75 font-bold italic text-2xl'>
