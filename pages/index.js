@@ -55,9 +55,9 @@ export default function Home()
       </div>
 
       <CornyQuestion 
-        question="What does Aryan have deep in his heart?
-        nonactive="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuclear_symbol.svg/1024px-Nuclear_symbol.svg.png"
-        active="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/76629/nuclear-explosion-clipart-xl.png"
+        question="What does Aryan have deep in his heart?"
+        nonactive="https://e7.pngegg.com/pngimages/792/16/png-clipart-panda-panda-cartoon-panda.png"
+        active="https://instagram.fdel27-3.fna.fbcdn.net/v/t51.29350-15/431786548_1379958532664576_8259499804881603529_n.webp?stp=dst-jpg_e35_p240x240&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTEuc2RyLmYyOTM1MCJ9&_nc_ht=instagram.fdel27-3.fna.fbcdn.net&_nc_cat=108&_nc_ohc=3Va2mJs48Y4Q7kNvgGqD2U3&edm=AEhyXUkBAAAA&ccb=7-5&ig_cache_key=MzMxNzk2MDc4NDE1NTg4NzE3Mw%3D%3D.2-ccb7-5&oh=00_AYBKCqkJP7KrNosscNkpbOBXrQElOmqGTw508pkCKxWFhw&oe=669AB6A4&_nc_sid=8f1549"
         primary
         left
       />
